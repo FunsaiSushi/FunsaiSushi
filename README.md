@@ -95,7 +95,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) 
 
-# 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜:
+## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=FunsaiSushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false) -->
 <!-- Dark mode -->
 <picture>
