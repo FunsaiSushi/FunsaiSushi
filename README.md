@@ -93,11 +93,13 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) 
 
-
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=FunsaiSushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FunsaiSushi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FunsaiSushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FunsaiSushi/FunsaiSushi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FunsaiSushi/FunsaiSushi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
