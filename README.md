@@ -7,8 +7,6 @@
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/FunsaiSushi) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/funsai.sushi)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/FunSai) 
-
 
 ## 💻 Tech Stack
 ## 🚀 Frontend Development
