@@ -97,8 +97,26 @@
 
 # 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=FunsaiSushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=FunsaiSushi&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FunsaiSushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Dark mode -->
+<picture>
+  <source 
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=FunsaiSushi&theme=dark&hide_border=false" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=FunsaiSushi&theme=light&hide_border=false" 
+    alt="GitHub Streak Stats" />
+</picture>
+
+<!-- Top Languages Card -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FunsaiSushi&theme=dark&hide_border=false&layout=compact" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunsaiSushi&theme=light&hide_border=false&layout=compact" 
+    alt="Top Languages" />
+</picture>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FunsaiSushi/FunsaiSushi/output/github-snake-dark.svg" />
