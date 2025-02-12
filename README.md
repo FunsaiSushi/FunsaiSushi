@@ -1,6 +1,7 @@
-```boopin', to infinity and beyond... 🚀```
-
-
+```
+Hello! I'm Funsai, sushipop (dad of sushi the bun 🐇).
+I do be writing some code on my computer ^^
+```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FunsaiSushi&style=for-the-badge)
 
@@ -98,7 +99,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FunsaiSushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=FunsaiSushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FunsaiSushi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FunsaiSushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
