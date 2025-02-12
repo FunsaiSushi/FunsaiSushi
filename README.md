@@ -58,7 +58,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 
-## Others
+## 𝐎𝐭𝐡𝐞𝐫𝐬
 #### 📦 𝙱𝚞𝚒𝚕𝚍 𝚃𝚘𝚘𝚕𝚜 𝚊𝚗𝚍 𝙿𝚊𝚌𝚔𝚊𝚐𝚎 𝙼𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝
 ![Turborepo](https://img.shields.io/badge/Turborepo-%23FF4F00.svg?style=flat-square&logo=turbo&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220) 
