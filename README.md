@@ -1,8 +1,8 @@
 ### ``` Hello! I'm Funsai, sushipop (dad of sushi the bun 🐇). ```
-# ``` I do be writing some code on my computer ^^ ```
+## ``` I do be writing some code on my computer ^^ ```
 ![Profile Views](https://komarev.com/ghpvc/?username=FunsaiSushi&style=for-the-badge)
 
-## 🌐 𝚂𝚘𝚌𝚒𝚊𝚕𝚜:
+## 🌐 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/FunsaiSushi) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/funsai.sushi)
 
