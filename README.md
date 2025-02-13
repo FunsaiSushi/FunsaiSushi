@@ -63,6 +63,10 @@
 ![Turborepo](https://img.shields.io/badge/Turborepo-%23FF4F00.svg?style=flat-square&logo=turbo&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220) 
 
+#### 🧪 𝚃𝚎𝚜𝚝𝚒𝚗𝚐  
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=flat-square&logo=cypress&logoColor=white)  
+
 #### 🏛 𝙰𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎𝚜
 ![Microservices](https://img.shields.io/badge/Microservices-%2331A1C2.svg?style=flat-square&logo=docker&logoColor=white) 
 ![Event Driven Architecture](https://img.shields.io/badge/Event%20Driven%20Architecture-%23FF6F00.svg?style=flat-square&logo=kafka&logoColor=white)
