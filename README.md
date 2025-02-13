@@ -1,4 +1,4 @@
-### ``` Hello! I'm Funsai, sushipop (dad of sushi the bun 🐇). ```
+``` Hello! I'm Funsai, sushipop (dad of sushi the bun 🐇). ```
 ## ``` I do be writing some code on my computer ^^ ```
 ![Profile Views](https://komarev.com/ghpvc/?username=FunsaiSushi&style=for-the-badge)
 
