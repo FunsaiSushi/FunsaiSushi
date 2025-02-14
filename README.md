@@ -1,8 +1,8 @@
-``` Hello! I'm Funsai, sushipop (dad of sushi the bun 🐇). ```
+#### ``` Hello! I'm Funsai, sushipop (dad of sushi the bun 🐇). ```
 ## ``` I do be writing some code on my computer ^^ ```
 ![Profile Views](https://komarev.com/ghpvc/?username=FunsaiSushi&style=for-the-badge)
 
-### 📂 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+#### 📂 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
 - [Boopclub](https://boopclub.vercel.app)
 - [Kreeshee](https://kreeshee.vercel.app)
@@ -11,12 +11,12 @@
 - [Panda HR](https://pandahr.vercel.app)
 #### 💫 𝚂𝚎𝚎 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 - [Portfolio](https://funsai.vercel.app)
 
-### 🌐 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 :
+#### 🌐 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 :
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/FunsaiSushi) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/funsai.sushi)
 
-### 💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤:
-### 🚀 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍:
+## 💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤:
+#### 🚀 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
@@ -27,14 +27,14 @@
 ![ShadCN](https://img.shields.io/badge/ShadCN-black?style=for-the-badge&logo=react&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### 🛠 𝙱𝚊𝚌𝚔𝚎𝚗𝚍
+#### 🛠 𝙱𝚊𝚌𝚔𝚎𝚗𝚍
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2333B1FF.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
 
-### 📥 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜
+#### 📥 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -44,7 +44,7 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) 
 -->
 
-#### ☁️ 𝙳𝚎𝚟𝙾𝚙𝚜 & 𝙲𝚕𝚘𝚞𝚍
+#### ☁️ 𝙳𝚎𝚟𝙾𝚙𝚜
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
