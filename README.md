@@ -2,7 +2,7 @@
 ## ``` I do be writing some code on my computer ^^ ```
 ![Profile Views](https://komarev.com/ghpvc/?username=FunsaiSushi&style=for-the-badge)
 
-### 📂 Projects
+### 📂 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
 - [Boopclub](https://boopclub.vercel.app)
 - [Kreeshee](https://kreeshee.vercel.app)
