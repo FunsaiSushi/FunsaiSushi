@@ -2,16 +2,17 @@
 ## 𝙸 𝚖𝚊𝚢 𝚔𝚗𝚘𝚠 𝚊 𝚝𝚑𝚒𝚗𝚐 𝚘𝚛 𝚝𝚠𝚘 𝚊𝚋𝚘𝚞𝚝 𝚌𝚘𝚍𝚒𝚗𝚐 𝚊𝚗𝚍 𝚜𝚢𝚜𝚝𝚎𝚖 𝚍𝚎𝚜𝚒𝚐𝚗 ᕙ⁠(⁠⇀⁠‸⁠↼⁠‶⁠)⁠ᕗ
 ![Profile Views](https://komarev.com/ghpvc/?username=FunsaiSushi&style=for-the-badge)
 
-#### 📂 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+#### 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
 - [Boopclub](https://boopclub.vercel.app)
 - [Kreeshee](https://kreeshee.vercel.app)
 - [Refun](https://refun.vercel.app)
 - [Panda HR](https://pandahr.vercel.app)
 - [Storefren](https://github.com/FunsaiSushi/storefren)
+
 #### 𝚂𝚎𝚎 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 - [Portfolio](https://funsai.vercel.app)
 
-#### 📧 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 :
+#### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 :
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/FunsaiSushi) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/funsai.sushi)
 ## 
