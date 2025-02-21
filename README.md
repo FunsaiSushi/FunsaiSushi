@@ -15,25 +15,25 @@
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/FunsaiSushi) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/funsai.sushi)
 
-## 💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤:
-#### 🚀 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍:
+## My Crafting Table -
+#### 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-#### 🛠 𝙱𝚊𝚌𝚔𝚎𝚗𝚍
+#### 𝙱𝚊𝚌𝚔𝚎𝚗𝚍
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2333B1FF.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
 
-#### 📥 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜
+#### 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-#### ☁️ 𝙳𝚎𝚟𝙾𝚙𝚜
+#### 𝙳𝚎𝚟𝙾𝚙𝚜
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
@@ -41,7 +41,7 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233776AB.svg?style=flat-square&logo=cloudinary&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
 
-## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜:
+### 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=FunsaiSushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false) -->
 <!-- Dark mode -->
 <picture>
