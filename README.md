@@ -1,5 +1,5 @@
 ### ``` Hello! I'm Funsai, sushipop (dad of sushi the bun 🐇). ```
-# ``` I do be writing some code on my computer ^^ ```
+## 𝙸 𝚖𝚊𝚢 𝚔𝚗𝚘𝚠 𝚊 𝚝𝚑𝚒𝚗𝚐 𝚘𝚛 𝚝𝚠𝚘 𝚊𝚋𝚘𝚞𝚝 𝚌𝚘𝚍𝚒𝚗𝚐 𝚊𝚗𝚍 𝚜𝚢𝚜𝚝𝚎𝚖 𝚍𝚎𝚜𝚒𝚐𝚗 ᕙ⁠(⁠ ⁠~⁠ ⁠.⁠ ⁠~⁠ ⁠)⁠ᕗ
 ![Profile Views](https://komarev.com/ghpvc/?username=FunsaiSushi&style=for-the-badge)
 
 #### 📂 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
