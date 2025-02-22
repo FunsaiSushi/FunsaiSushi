@@ -17,7 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/funsai.sushi)
 ## 
 ### 𝙼𝚢 𝙲𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚃𝚊𝚋𝚕𝚎 -
-#### 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍:
+#### 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
