@@ -11,10 +11,11 @@
 - [Storefren](https://github.com/FunsaiSushi/storefren)
 
 #### 𝚂𝚎𝚎 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 - [Portfolio](https://funsai.vercel.app)
-
+<!--
 #### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 :
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/FunsaiSushi) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/funsai.sushi)
+-->
 ## 
 ### 𝙼𝚢 𝙲𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚃𝚊𝚋𝚕𝚎 -
 #### 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍
