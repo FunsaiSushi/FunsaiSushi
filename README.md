@@ -9,6 +9,7 @@
 - [Refun](https://refun.vercel.app)
 - [MazeWalker](https://mazewalker.vercel.app)
 - [AimLabs](https://aimlabs-rho.vercel.app)
+- [OpticaLab](https://opticalab-lake.vercel.app)
 - [Panda HR](https://pandahr.vercel.app)
 - [Crafters](https://craftersbd.vercel.app)
 - [Storefren](https://github.com/FunsaiSushi/storefren)
