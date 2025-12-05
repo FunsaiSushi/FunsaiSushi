@@ -13,7 +13,7 @@
 - [OpticaLab](https://opticalab-lake.vercel.app)
 - [Panda HR](https://pandahr.vercel.app)
 - [Crafters](https://craftersbd.vercel.app)
-- [Storefren](https://github.com/FunsaiSushi/storefren)
+- [Storefren](https://storefren.com)
 
 #### 𝚂𝚎𝚎 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 - [Portfolio](https://funsai.vercel.app)
 <!--
