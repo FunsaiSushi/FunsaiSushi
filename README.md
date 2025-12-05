@@ -6,7 +6,7 @@
 #### 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
 - [Storefren - The Best Store Management App](https://storefren.com)
-- [Buckyy - A BAAS(Banking As A Service) Platform]
+- [Buckyy - A BAAS(Banking As A Service) Platform](https://buckyy.com)
 - [Boopclub - The Internet's Town Square](https://boopclub.vercel.app)
 - [Kreeshee](https://kreeshee.vercel.app)
 - [Refun](https://refun.vercel.app)
