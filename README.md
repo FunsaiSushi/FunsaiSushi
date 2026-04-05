@@ -70,7 +70,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunsaiSushi&theme=light&hide_border=false&layout=compact" 
     alt="Top Languages" />
 </picture> -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Funsai's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunSaiSushi)](https://github.com/funsaisushi/github-readme-stats)
 
 
 <picture>
