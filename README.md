@@ -62,14 +62,15 @@
 </picture>
 
 <!-- Top Languages Card -->
-<picture>
+<!-- <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FunsaiSushi&theme=dark&hide_border=false&layout=compact" 
     media="(prefers-color-scheme: dark)" />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunsaiSushi&theme=light&hide_border=false&layout=compact" 
     alt="Top Languages" />
-</picture>
+</picture> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <picture>
